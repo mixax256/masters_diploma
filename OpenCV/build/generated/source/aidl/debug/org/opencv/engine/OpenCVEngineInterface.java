@@ -1,6 +1,6 @@
 /*
  * This file is auto-generated.  DO NOT MODIFY.
- * Original file: /home/mixax256/AndroidStudioProjects/masters_diploma/OpenCV/src/main/aidl/org/opencv/engine/OpenCVEngineInterface.aidl
+ * Original file: /home/mixax256/masters_diploma/OpenCV/src/main/aidl/org/opencv/engine/OpenCVEngineInterface.aidl
  */
 package org.opencv.engine;
 /**
